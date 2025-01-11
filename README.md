@@ -1,2 +1,2 @@
 # GithubExplorer
-The main project files are inside the repo
+These are the main project files
