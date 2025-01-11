@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "GitHubExplorer",
+    "slug": "GitHubExplorer",
+    "version": "1.0.0",
+    "newArchEnabled": true,
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "bundleIdentifier": "com.githubexplorer.app"
+    },
+    "android": {
+      "package": "com.githubexplorer.app",
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "180b4065-abae-4d6b-8209-68ca14b28181"
+      }
+    },
+    "owner": "abhishekpatilmca"
+  }
+}
